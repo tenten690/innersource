@@ -10,17 +10,21 @@
 
 ### Creating an InnerSource Culture
 
-- [UNderstanding cultural ingredients](cultural-ingredients/)
+- [Understanding cultural ingredients](cultural-ingredients/)
 - [Working through cultural resistance](cultural-resistance/)
 
 ### Developer Enablement
 
 - [Crafting discoverable repositories](discoverable/)
 - [Useful templates](templates/)
-- [Measuring success](metrics/)
 - [Repository ownership](repo-ownership/)
 - [Workflows](workflows/)
 - [Overcoming contributor friction](contributor-friction/)
 - [The Trusted Commiter role (TC)](tc-role/)
+
+### Governance
+
+- [Measuring success](metrics/)
+- [Rollout checklist](rollout-checklist/)
 
 This repository is licensed under [CC-by-4](../LICENSE) (c) 2019 GitHub, Inc.
